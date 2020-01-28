@@ -1,0 +1,8 @@
+.button_trash{
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+.button_trash i{
+    font-size: 1.5rem;
+}
